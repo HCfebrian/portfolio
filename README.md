@@ -7,7 +7,7 @@
     - Depedency injection using Get it
     - Rest Api Library using Chopper
     
-    <img src="https://github.com/HCfebrian/portfolio/blob/master/appWeatherImage/appWeather.jpeg" width="200"/>
+    \t <img src="https://github.com/HCfebrian/portfolio/blob/master/appWeatherImage/appWeather.jpeg" width="200"/>
 
 2.  Movie Cataloge
 
@@ -37,3 +37,13 @@
         </tr>
      </table>
 </div>
+
+3. Skype Clone
+    
+    - firestore 
+    - firebase auth
+    - agora RTC engine for Video Call comunication
+    
+<img src="https://github.com/HCfebrian/portfolio/blob/master/appWeatherImage/appWeather.jpeg" width="200"/>
+
+    
