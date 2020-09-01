@@ -7,8 +7,7 @@
     - Depedency injection using Get it
     - Rest Api Library using Chopper
     
-    
-    ![header image](https://github.com/HCfebrian/portfolio/blob/master/appWeatherImage/appWeather.jpeg)
+    <img src="https://github.com/HCfebrian/portfolio/blob/master/appWeatherImage/appWeather.jpeg" width="200"/>
 
 2.  Movie Cataloge
 
@@ -16,8 +15,25 @@
     - Clean Architecture 
     - Depedency injection Using Get It
     - Rest API Libray using Chopper
-    
-        ![header image](https://github.com/HCfebrian/portfolio/blob/master/movieCataloge/home.jpeg)
-        ![header image](https://github.com/HCfebrian/portfolio/blob/master/movieCataloge/movieDetail.jpeg)
-        ![header image](https://github.com/HCfebrian/portfolio/blob/master/movieCataloge/movieDetail2.jpeg)
-        
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                <a href="">
+                    <img src="https://github.com/HCfebrian/portfolio/blob/master/movieCataloge/home.jpeg" width="200"/>
+                </a>
+            </td>            
+            <td style="text-align: center">
+                <a href="">
+                    <img src="https://github.com/HCfebrian/portfolio/blob/master/movieCataloge/movieDetail.jpeg" width="200"/>
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="">
+                    <img src="https://github.com/HCfebrian/portfolio/blob/master/movieCataloge/movieDetail2.jpeg" width="200" />
+                </a>
+            </td>
+        </tr>
+     </table>
+</div>
