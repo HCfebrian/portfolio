@@ -14,7 +14,7 @@
 <br />
 2.  Movie Catalogue
 
-    Movie Catalogue show information about movie such as release data, actor, screenshoot, rating, ect. chack the code on [Movie Catalogue](https://github.com/HCfebrian/movie_app_flutter).
+Movie Catalogue show information about movie such as release data, actor, screenshoot, rating, ect. chack the code on [Movie Catalogue](https://github.com/HCfebrian/movie_app_flutter).
 
 
     - State mmanagement Using Bloc
