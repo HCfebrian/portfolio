@@ -1,6 +1,7 @@
 # Heryan Febriansyah Portfolio Flutter
 
-1.  Weather App
+1.  Weather App 
+    This App show you how weather today and forecast 5 days forword. chack the code on [Weather App Repo](https://github.com/HCfebrian/app_weather).
 
     - State Management using BLOC
     - Clean Architecture
@@ -11,7 +12,10 @@
 
 
 <br />
-2.  Movie Cataloge
+2.  Movie Catalogue
+
+    Movie Catalogue show information about movie such as release data, actor, screenshoot, rating, ect. chack the code on [Movie Catalogue](https://github.com/HCfebrian/movie_app_flutter).
+
 
     - State mmanagement Using Bloc
     - Clean Architecture 
@@ -43,6 +47,7 @@
 
 <br />
 3. Skype Clone
+Skype message app Clone . chack the code on [Skype Clone Repo](https://github.com/HCfebrian/chat_app_for_weeb).
     
     - firestore 
     - firebase auth
@@ -54,7 +59,9 @@
 
 
 <br />
-4.  Rakit PC
+4.Rakit PC 
+
+Works like PC Part Picker, rakit pc can help you decide what how to pick your PC component. chack the code on [Rakit PC Repo](https://github.com/HCfebrian/TDD_rakit_komputer_Clean_Architecture).
 
     - State mmanagement Using Bloc
     - Clean Architecture 
@@ -104,3 +111,5 @@
         </tr>
      </table>
 </div>
+
+
