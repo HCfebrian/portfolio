@@ -52,10 +52,6 @@ Skype message app Clone . chack the code on [Skype Clone Repo](https://github.co
     - firestore 
     - firebase auth
     - agora RTC engine for Video Call comunication
-    
-<img src="https://github.com/HCfebrian/portfolio/blob/master/appWeatherImage/appWeather.jpeg" width="200"/>
-
-
 
 
 <br />
