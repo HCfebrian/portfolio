@@ -53,7 +53,6 @@ Using ML Kit and process image to decide is user receipt is valid or not. if it 
     - State mmanagement Using Bloc
     - Clean Architecture 
     - Depedency injection Using Get It
-    - TDD(Test Driven Development)
     - Mocking Using Mocikto
     - Unit test
     - Firestore Auth and Firestore database
