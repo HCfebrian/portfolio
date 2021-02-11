@@ -45,6 +45,31 @@ Movie Catalogue show information about movie such as release data, actor, screen
 </div>
 
 
+<br />
+3.ML kit project (finish for Text Recognition)
+
+Using ML Kit and process image to decide is user receipt is valid or not. if it falid user will get cashback. [ML kit repo](https://github.com/HCfebrian/flutter_text_recognition).
+
+    - State mmanagement Using Bloc
+    - Clean Architecture 
+    - Depedency injection Using Get It
+    - TDD(Test Driven Development)
+    - Mocking Using Mocikto
+    - Unit test
+    - Firestore Auth and Firestore database
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                <a href="">
+                    <img src="https://github.com/HCfebrian/flutter_text_recognition/blob/master/assets/images/photo_2021-02-11_12-03-49.jpg" width="200"/>
+                </a>
+            </td>            
+            </tr>
+     </table>
+</div>
+
 
 <br />
 4.Rakit PC 
