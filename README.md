@@ -45,14 +45,6 @@ Movie Catalogue show information about movie such as release data, actor, screen
 </div>
 
 
-<br />
-3. Skype Clone
-Skype message app Clone . chack the code on [Skype Clone Repo](https://github.com/HCfebrian/chat_app_for_weeb).
-    
-    - firestore 
-    - firebase auth
-    - agora RTC engine for Video Call comunication
-
 
 <br />
 4.Rakit PC 
