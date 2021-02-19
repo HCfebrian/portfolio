@@ -71,7 +71,7 @@ Using ML Kit and process image to decide is user receipt is valid or not. if it 
 
 
 <br />
-4.Rakit PC 
+4.Rakit PC  (not full code)
 
 Works like PC Part Picker, rakit pc can help you decide what how to pick your PC component. chack the code on [Rakit PC Repo](https://github.com/HCfebrian/TDD_rakit_komputer_Clean_Architecture).
 
